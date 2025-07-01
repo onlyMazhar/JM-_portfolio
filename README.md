@@ -1,2 +1,2 @@
-# JM-_portfolio
+# JM-Portfolio
 This repository is for jahan's portfolio.
