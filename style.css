@@ -358,7 +358,7 @@ body {
         }
 
         .social-links a {
-           width: 35px;
+          width: 35px;
           height: 0px;
           font-size: 18px;
         }
@@ -371,6 +371,12 @@ body {
           font-size: 24px; /* Smaller heading */
         }
 
+        .service-icon i {
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
+        }
+              
         .footer {
           text-align: center;
           padding: 0px;
@@ -452,6 +458,12 @@ body {
         .service-icon {
           width: 40px;
           height: 40px;
+        }
+
+        .service-icon i {
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
         }
 
         .icon-image {
