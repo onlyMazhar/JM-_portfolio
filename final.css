@@ -380,6 +380,12 @@ body {
           background: rgba(0, 0, 0, 0.2);
         }
 
+        .services-left {
+          padding: 0px;
+          margin: 0px;
+          border-radius: 20px;
+        }
+
         .content p {
           font-size: 14px; /* Smaller text */
         }
@@ -387,6 +393,10 @@ body {
         .services-container {
           flex-direction: column;
           gap: 20px;
+        }
+
+        .services-right{
+          margin: 0px;
         }
 
         .section-title {
@@ -415,7 +425,7 @@ body {
 
         .hi-btn {
           font-size: 14px;
-          padding: 6px 12px;
+          padding: 0px 6px 9px 6px;
         }
 
         .content h1 {
